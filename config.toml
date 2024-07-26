@@ -3,10 +3,10 @@ url_info = "{\n    \"url\": \"https://ya.ru/search/geo?yu=9067344751719900641&sk
 url_reviews = "{\n    \"url\": \"https://ya.ru/ugcpub/digest?offset=0&objectId=%2Forg%2F96920010561&ranking=&addComments=true&otype=Org&appId=1org-viewer&add_geosearch_snippets=true&limit=10&fixTokens=true&forceBusinessAnswers=undefined\"\n}\n"
 
 [coordinates]
-start_lat = 60.0
-start_lon = 50.0
-end_lat = 66.0
-end_lon = 52.0
+start_lat = 40.0
+start_lon = 20.0
+end_lat = 72.0
+end_lon = 170.0
 step_lat = 0.6
 step_lon = 0.6
 
