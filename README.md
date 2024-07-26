@@ -243,5 +243,5 @@ async def run_insert(self, parralel_task: int = 10):
 
 ____
 ## Структура БД
-![изображение](https://github.com/user-attachments/assets/12d1199b-fb2b-4778-802f-dcdcb9d62e3d)
+![изображение](https://github.com/user-attachments/assets/bedad471-a61f-470b-adb3-b759a285fe98)
 
