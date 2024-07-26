@@ -8,6 +8,7 @@ ____
   - [Примеры](#примеры)
   - [TOML файл](#toml-файл)
 - [Основные функции](#основные-функции)
+- [Структура БД](#структура-бд)
 
 ____
 ## Описание
@@ -240,5 +241,7 @@ async def _process_lines(self, start, end):
 async def run_insert(self, parralel_task: int = 10): 
 ```
 
-
 ____
+## Структура БД
+![изображение](https://github.com/user-attachments/assets/12d1199b-fb2b-4778-802f-dcdcb9d62e3d)
+
